@@ -1,19 +1,15 @@
 
-# ***_Team: ElectroCluster_***
-# ***_Track: Open Innovation_***
-# ***_Automated Cylinder Monitoring System (ACMS)_***
 
-* A Project Developed in ***Hack In The North***
+# ***_Automated Cylinder Monitoring System (A.C.M.S)_***
 
-
+_A Project Developed by :_ 
 <br>
-<img src="https://github.com/Godson-Thomas/ACMS_Hack_In_The_North/blob/master/HITN.png" width="200">
-<br>
+
 
 * *Godson Thomas* <br>
 * *Bilal Ibrahim* <br>
 * *Ajith Joseph* <br>
-* *Anandakrishnan U*<br>
+* *Anandakrishnan U* <br>
 
 
 
@@ -68,10 +64,10 @@ _But wait....What about the users who does not have an access to the internet...
 ## ***_Circuit Diagram :_***
 
 ### For Internet Users
-<img src="https://github.com/Godson-Thomas/ACMS_Hack_In_The_North/blob/master/Circuit/ACMS_1_img.jpg" width="550"><br><br>
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Circuit/ACMS_1_img.jpg" width="550"><br><br>
 
 ### For Non Internet Users
-<img src="https://github.com/Godson-Thomas/ACMS_Hack_In_The_North/blob/master/Circuit/ACMS_2_img.jpg" width="550"><br><br>
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Circuit/ACMS_2_img.jpg" width="550"><br><br>
 
 
 
@@ -80,29 +76,30 @@ _But wait....What about the users who does not have an access to the internet...
 
 
 ## ***_3D Model (Case Design) : Autodesk Fusion 360_***
-<img src="https://github.com/Godson-Thomas/ACMS_Hack_In_The_North/blob/master/Case_Design_Fusion360/f.JPG" width="450"><br>
-<img src="https://github.com/Godson-Thomas/ACMS_Hack_In_The_North/blob/master/Case_Design_Fusion360/top.JPG" width="450"><br>
-<img src="https://github.com/Godson-Thomas/ACMS_Hack_In_The_North/blob/master/Case_Design_Fusion360/bottom.JPG" width="450"><br>
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Case_Design_Fusion360/f.JPG" width="450"><br>
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Case_Design_Fusion360/top.JPG" width="450"><br>
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Case_Design_Fusion360/bottom.JPG" width="450"><br>
 
 ## ***_APP Interface : For Internet Users_***
 <p float="right">
-<img src="https://github.com/Godson-Thomas/ACMS_Hack_In_The_North/blob/master/Mobile_App_Images/App%20(1).jpeg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Godson-Thomas/ACMS_Hack_In_The_North/blob/master/Mobile_App_Images/App%20(2).jpeg" width="245"><br>
-<img src="https://github.com/Godson-Thomas/ACMS_Hack_In_The_North/blob/master/Mobile_App_Images/App%20(3).jpeg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Godson-Thomas/ACMS_Hack_In_The_North/blob/master/Mobile_App_Images/App%20(4).jpeg" width="225">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Godson-Thomas/ACMS_Hack_In_The_North/blob/master/Mobile_App_Images/App%20(5).jpg" width="250">
-</p>
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App%20(1).jpeg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App%20(6).jpeg" width="245"><br>
+
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App%20(2).jpeg" width="245">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App%20(3).jpeg" width="250"><br>
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App%20(4).jpeg" width="225">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App%20(5).jpeg" width="225"></p>
 <br><br>
 
 ## ***_SMS feature for Non-Internet Users  (Using SIM800l):_***
-<img src="https://github.com/Godson-Thomas/ACMS_Hack_In_The_North/blob/master/SMS_Images/Leakage.jpeg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/SMS_Images/Leakage.jpeg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
 
 ## ***_Final_Output :_***
 
-<img src="https://github.com/Godson-Thomas/ACMS_Hack_In_The_North/blob/master/Module_and_App/Product_Image1.jpg" width="450"><br>
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Module_and_App/Product_Image1.jpg" width="450"><br>
 
 <br><br>
-<img src="https://github.com/Godson-Thomas/ACMS_Hack_In_The_North/blob/master/Module_and_App/Product_Image2.jpg" width="450"><br>
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Module_and_App/Product_Image2.jpg" width="450"><br>
 
 <br><br>
 
