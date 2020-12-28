@@ -70,10 +70,13 @@ _But wait....What about the users who does not have an access to the internet...
 <img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Circuit/ACMS_2_img.jpg" width="550"><br><br>
 
 
+## ***_Simulation :_***
 
+### For Internet Users
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Simulation/UNO_Nodemcu/UNO_NodeMCU_2.JPG" width="550"><br><br>
 
-
-
+### For Non Internet Users
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Simulation/UNO_GSM/SIM800l_Simulation.JPG" width="550"><br><br>
 
 ## ***_3D Model (Case Design) : Autodesk Fusion 360_***
 <img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Case_Design_Fusion360/f.JPG" width="450"><br>
@@ -83,7 +86,7 @@ _But wait....What about the users who does not have an access to the internet...
 ## ***_APP Interface : For Internet Users_***
 <p float="right">
 <img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App%20(1).jpeg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App%20(6).jpeg" width="245"><br>
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App%20(6).jpg" width="245"><br>
 
 <img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App%20(2).jpeg" width="245">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App%20(3).jpeg" width="250"><br>
