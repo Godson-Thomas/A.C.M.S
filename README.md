@@ -86,7 +86,7 @@ _But wait....What about the users who does not have an access to the internet...
 ## ***_APP Interface : For Internet Users_***
 <p float="right">
 <img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App%20(1).jpeg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App%20(6).jpg" width="245"><br>
+<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App(6).jpg" width="245"><br>
 
 <img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App%20(2).jpeg" width="245">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App%20(3).jpeg" width="250"><br>
