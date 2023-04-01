@@ -2,7 +2,7 @@
 
 # ***_Automated Cylinder Monitoring System (A.C.M.S)_***
 
-_A Project Developed by :_ 
+_A Project by :_ 
 <br>
 
 
