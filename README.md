@@ -19,7 +19,7 @@ _A Project by :_
 
 ## ***_Description_***
 
-_In India, Liquified Petroleum Gas(LPG) is the fossil fuel used for cooking. Houses, restaurants & hotels rely on LPG daily. Studies have shown that more than 85% of LPG gas consumers and many of them are unaware of the leakage issues. The project aims to develop an affordable IOT(Internet Of Things) based LPG gas cylinder monitoring system which records the LPG weight, leakage, etc., and sends notifications to both internet and non-internet users regarding the cylinder parameters via mobile phones. The hardware device sends SMS to the registered phone number providing a helping hand for non-internet users. The security features of the module keep the users safe. When the automatic mode is enabled, leakage information and the location are shared with the fire station nearby._
+_In India, Liquified Petroleum Gas(LPG) is the fossil fuel used for cooking. Houses, restaurants & hotels rely on LPG daily. Studies have shown that more than 85% of LPG gas consumers and many of them are unaware of the leakage issues. The project aims to develop an affordable IOT(Internet Of Things) based LPG gas cylinder monitoring system which records the LPG weight, leakage, etc., and sends notifications to both internet and non-internet users regarding the cylinder parameters to their mobile phones. The hardware device sends SMS to the registered phone number providing a helping hand for non-internet users. The security features of the module keep the users safe. When the automatic mode is enabled, leakage information and the location are shared with the fire station nearby._
 
 
 
