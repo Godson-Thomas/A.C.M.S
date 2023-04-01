@@ -19,7 +19,7 @@ _A Project Developed by :_
 
 ## ***_Description_***
 
-_In India,Liquified Petroleum Gas(LPG) is the major fossil fuel used for cooking purpose.Houses,restaurants & hotels relies on LPG on a daily basis. Studies have shown that there are more than 85% of LPG gas consumers and many of them are unaware of the leakage issues which can pose a great threat for their lives.The project aims to develop an affordable IOT(Internet Of Things) based LPG gas cylinder monitoring system which keeps a track of the LPG weight,leakage etc. and helps in notifying both internet and non-internet users regarding the cylinder parameters via mobile phones.The hardware device is capable of sending SMS to the registered phone number which provides a helping hand for the non internet users.The security features of the module keeps the users safe.When the automatic mode is enabled,leakage information & house location will be shared with the fire station nearby._
+_In India, Liquified Petroleum Gas(LPG) is the fossil fuel used for cooking. Houses, restaurants & hotels rely on LPG daily. Studies have shown that more than 85% of LPG gas consumers and many of them are unaware of the leakage issues. The project aims to develop an affordable IOT(Internet Of Things) based LPG gas cylinder monitoring system which records the LPG weight, leakage, etc., and sends notifications to both internet and non-internet users regarding the cylinder parameters via mobile phones. The hardware device sends SMS to the registered phone number providing a helping hand for non-internet users. The security features of the module keep the users safe. When the automatic mode is enabled, leakage information and the location are shared with the fire station nearby._
 
 
 
@@ -72,7 +72,7 @@ _In India,Liquified Petroleum Gas(LPG) is the major fossil fuel used for cooking
 ### For Internet Users
 <img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Simulation/UNO_Nodemcu/UNO_NodeMCU_2.JPG" width="550"><br><br>
 
-### For Non Internet Users
+### For Non-Internet Users
 <img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Simulation/UNO_GSM/SIM800l_Simulation.JPG" width="550"><br><br>
 
 ## ***_3D Model (Case Design) : Autodesk Fusion 360_***
@@ -80,7 +80,7 @@ _In India,Liquified Petroleum Gas(LPG) is the major fossil fuel used for cooking
 <img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Case_Design_Fusion360/top.JPG" width="450"><br>
 <img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Case_Design_Fusion360/bottom.JPG" width="450"><br>
 
-## ***_APP Interface : For Internet Users_***
+## ***_APP Interface : For Internet-Users_***
 <p float="right">
 <img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App%20(1).jpeg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Mobile_App_Images/App(6).jpg" width="245"><br>
