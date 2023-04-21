@@ -101,6 +101,3 @@ _In India, Liquified Petroleum Gas(LPG) is the fossil fuel used for cooking. Hou
 <br><br>
 
 
-
-## ***_Video  :_***  
-[click here](https://www.youtube.com/watch?v=baCdNkkaovg)
